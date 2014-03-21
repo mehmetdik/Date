@@ -1,4 +1,4 @@
-Soru:3. Tarihleri saklamak için aşağıda UML sınıf diyagramı verilen MyDate sınıfını ve bu sınıfın metod
+Soru:MyDate sınıfını ve bu sınıfın metod
 ve özelliklerini test etmek için main metodu bulunan MyDateTest sınıfını yazınız.
 1-month değerine [1-12] dışında değer girilmesine izin verilmemelidir.
 2-day değerine [1-31] değerlerim dışında değer girilmesine izin verilmemelidir.
